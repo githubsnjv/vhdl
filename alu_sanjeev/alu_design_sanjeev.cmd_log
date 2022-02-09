@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "G:/vhdl code/alu_sanjeev/alu_design_sanjeev.xst" -ofn "G:/vhdl code/alu_sanjeev/alu_design_sanjeev.syr" 

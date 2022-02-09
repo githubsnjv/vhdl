@@ -1,0 +1,32 @@
+Command line:
+   alu_tb_sanjeev_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  60436
+
+Wed Feb 09 16:17:51 2022
+
+
+ Elaboration Time: 0.015625 sec
+
+ Current Memory Usage: 5151.01 Meg
+
+ Total Signals          : 8
+ Total Nets             : 12
+ Total Signal Drivers   : 4
+ Total Blocks           : 6
+ Total Primitive Blocks : 5
+ Total Processes        : 2
+ Total Traceable Variables  : 15
+ Total Scalar Nets and Variables : 513
+Total Line Count : 34
+In process alu_design_sanjeev.vhd:45 
+ Target Size 3 and source size 6 for array dimension 0 does not match. 
+
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 4993.73 Meg
+
+Wed Feb 09 16:19:27 2022
+
