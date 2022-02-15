@@ -1,0 +1,2 @@
+vhdl isim_temp "andgate_design_sanjeev.vhd"
+vhdl isim_temp "andgate_tb_sanjeev.vhd"

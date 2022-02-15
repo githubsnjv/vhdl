@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "G:/vhdl code/mux_sanjeev/mux2x2_design_sanjeev.xst" -ofn "G:/vhdl code/mux_sanjeev/mux2x2_design_sanjeev.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx16-csg324-3 "mux2x2_design_sanjeev.ngc" mux2x2_design_sanjeev.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o mux2x2_design_sanjeev_map.ncd mux2x2_design_sanjeev.ngd mux2x2_design_sanjeev.pcf 
+par -w -intstyle ise -ol high -mt off mux2x2_design_sanjeev_map.ncd mux2x2_design_sanjeev.ncd mux2x2_design_sanjeev.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml mux2x2_design_sanjeev.twx mux2x2_design_sanjeev.ncd -o mux2x2_design_sanjeev.twr mux2x2_design_sanjeev.pcf 

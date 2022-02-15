@@ -1,0 +1,29 @@
+Command line:
+   mux2x2_design_sanjeev_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52314
+
+Wed Feb 02 14:13:15 2022
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5150.75 Meg
+
+ Total Signals          : 7
+ Total Nets             : 7
+ Total Signal Drivers   : 4
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 4
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 367
+Total Line Count : 4
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 5150.75 Meg
+
+Wed Feb 02 14:13:19 2022
+

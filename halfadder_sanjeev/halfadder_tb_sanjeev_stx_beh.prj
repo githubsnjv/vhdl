@@ -1,0 +1,2 @@
+vhdl isim_temp "halfadder_design_sanjeev.vhd"
+vhdl isim_temp "halfadder_tb_sanjeev.vhd"

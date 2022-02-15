@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "G:/vhdl code/fulladder_with_halfadder_sanjeev/fulladder_tb_sanjeev_isim_beh.exe" -prj "G:/vhdl code/fulladder_with_halfadder_sanjeev/fulladder_tb_sanjeev_beh.prj" "work.fulladder_tb_sanjeev" 

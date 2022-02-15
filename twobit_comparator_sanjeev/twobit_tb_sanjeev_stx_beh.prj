@@ -1,0 +1,2 @@
+vhdl isim_temp "twobit_design_sanjeev.vhd"
+vhdl isim_temp "twobit_tb_sanjeev.vhd"

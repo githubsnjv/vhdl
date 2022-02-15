@@ -1,0 +1,7 @@
+[Inputs]
+a
+b
+[Outputs]
+sum
+carry
+[BiDir]

@@ -77,6 +77,7 @@
     <transform xil_pn:end_ts="1644403670" xil_pn:in_ck="-5740903507404397816" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="5989955349888911312" xil_pn:start_ts="1644403667">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
       <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="alu_tb_sanjeev_beh.prj"/>
@@ -89,6 +90,8 @@
     <transform xil_pn:end_ts="1644403670" xil_pn:in_ck="-2689922243871715546" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="1244713894078431069" xil_pn:start_ts="1644403670">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
       <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="alu_tb_sanjeev_isim_beh.wdb"/>

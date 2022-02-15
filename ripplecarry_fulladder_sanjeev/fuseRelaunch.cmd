@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "G:/vhdl code/ripplecarry_fulladder_sanjeev/fourbitadder_tb_sanjeev_isim_beh.exe" -prj "G:/vhdl code/ripplecarry_fulladder_sanjeev/fourbitadder_tb_sanjeev_beh.prj" "work.fourbitadder_tb_sanjeev" 

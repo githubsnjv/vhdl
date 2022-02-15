@@ -1,0 +1,29 @@
+Command line:
+   prooritencoder_tb_sanjeev_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54747
+
+Wed Feb 09 14:24:16 2022
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5150.79 Meg
+
+ Total Signals          : 22
+ Total Nets             : 11
+ Total Signal Drivers   : 11
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 4
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 371
+Total Line Count : 20
+
+ Total Simulation Time: 0.046875 sec
+
+ Current Memory Usage: 4678.93 Meg
+
+Wed Feb 09 15:43:12 2022
+

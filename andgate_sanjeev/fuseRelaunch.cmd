@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "G:/vhdl code/andgate_sanjeev/andgate_tb_sanjeev_isim_beh.exe" -prj "G:/vhdl code/andgate_sanjeev/andgate_tb_sanjeev_beh.prj" "work.andgate_tb_sanjeev" 

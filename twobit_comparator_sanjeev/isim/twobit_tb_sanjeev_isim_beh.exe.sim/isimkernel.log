@@ -1,0 +1,29 @@
+Command line:
+   twobit_tb_sanjeev_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50098
+
+Wed Feb 09 15:55:08 2022
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5150.79 Meg
+
+ Total Signals          : 10
+ Total Nets             : 7
+ Total Signal Drivers   : 5
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 4
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 367
+Total Line Count : 36
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 4678.93 Meg
+
+Wed Feb 09 16:03:15 2022
+

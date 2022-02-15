@@ -1,0 +1,4 @@
+vhdtdtfi -lib work fulladder_design_sanjeev.vhd -prj fulladder_with_halfadder_sanjeev -o fulladder_design_sanjeev.spl -module fulladder_design_sanjeev -template G:/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+vhdtdtfi -lib work fulladder_design_sanjeev.vhd -prj fulladder_with_halfadder_sanjeev -o fulladder_design_sanjeev.spl -module fulladder_design_sanjeev -template G:/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+xst -intstyle ise -ifn "G:/vhdl code/fulladder_with_halfadder_sanjeev/fulladder_design_sanjeev.xst" -ofn "G:/vhdl code/fulladder_with_halfadder_sanjeev/fulladder_design_sanjeev.syr" 
+xst -intstyle ise -ifn "G:/vhdl code/fulladder_with_halfadder_sanjeev/fulladder_design_sanjeev.xst" -ofn "G:/vhdl code/fulladder_with_halfadder_sanjeev/fulladder_design_sanjeev.syr" 

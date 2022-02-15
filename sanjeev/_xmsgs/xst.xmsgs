@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="89" delta="old" >"G:\vhdl code\sanjeev\mux_021.vhd" Line 34: &lt;<arg fmt="%s" index="1">mux_021</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="890" delta="old" >"G:\vhdl code\sanjeev\mux_021.vhd" Line 74: wait statement without UNTIL clause not supported for synthesis
+</msg>
+
+</messages>
+

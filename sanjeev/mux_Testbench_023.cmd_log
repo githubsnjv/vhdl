@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "G:/vhdl code/sanjeev/mux_Testbench_023.xst" -ofn "G:/vhdl code/sanjeev/mux_Testbench_023.syr" 
+xst -intstyle ise -ifn "G:/vhdl code/sanjeev/mux_Testbench_023.xst" -ofn "G:/vhdl code/sanjeev/mux_Testbench_023.syr" 

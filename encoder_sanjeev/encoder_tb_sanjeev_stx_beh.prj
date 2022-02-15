@@ -1,0 +1,2 @@
+vhdl isim_temp "encoder_design_sanjeev.vhd"
+vhdl isim_temp "encoder_tb_sanjeev.vhd"

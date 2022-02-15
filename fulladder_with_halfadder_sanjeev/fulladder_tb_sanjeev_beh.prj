@@ -1,0 +1,3 @@
+vhdl work "halfadder_design_sanjeev.vhd"
+vhdl work "fulladder_design_sanjeev.vhd"
+vhdl work "fulladder_tb_sanjeev.vhd"
